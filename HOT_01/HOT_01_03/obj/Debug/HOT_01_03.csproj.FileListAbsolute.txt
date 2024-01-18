@@ -1,0 +1,7 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01_03\bin\Debug\HOT_01_03.exe.config
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01_03\bin\Debug\HOT_01_03.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01_03\bin\Debug\HOT_01_03.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01_03\obj\Debug\HOT_01_03.csproj.AssemblyReference.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01_03\obj\Debug\HOT_01_03.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01_03\obj\Debug\HOT_01_03.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01_03\obj\Debug\HOT_01_03.pdb

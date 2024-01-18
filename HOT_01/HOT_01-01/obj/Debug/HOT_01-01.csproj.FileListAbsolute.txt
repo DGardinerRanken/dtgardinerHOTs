@@ -1,0 +1,14 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\HOT_01\HOT_01-01\bin\Debug\HOT_01-01.exe.config
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\HOT_01\HOT_01-01\bin\Debug\HOT_01-01.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\HOT_01\HOT_01-01\bin\Debug\HOT_01-01.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\HOT_01\HOT_01-01\obj\Debug\HOT_01-01.csproj.AssemblyReference.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\HOT_01\HOT_01-01\obj\Debug\HOT_01-01.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\HOT_01\HOT_01-01\obj\Debug\HOT_01-01.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\HOT_01\HOT_01-01\obj\Debug\HOT_01-01.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01-01\bin\Debug\HOT_01-01.exe.config
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01-01\bin\Debug\HOT_01-01.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01-01\bin\Debug\HOT_01-01.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01-01\obj\Debug\HOT_01-01.csproj.AssemblyReference.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01-01\obj\Debug\HOT_01-01.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01-01\obj\Debug\HOT_01-01.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHOTs\HOT_01\HOT_01-01\obj\Debug\HOT_01-01.pdb
