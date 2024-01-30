@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HOT_02_01", "HOT_02_01\HOT_02_01.csproj", "{4091415A-7FFD-4B8E-8A3E-11E6BD095813}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HOT_02_02", "HOT_02_02\HOT_02_02.csproj", "{F5A44283-186E-46FE-B2CD-9E3EC30501D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOT_02_03", "HOT_02_03\HOT_02_03.csproj", "{52599D43-F371-4A47-8C3C-1A61CCFA3AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4091415A-7FFD-4B8E-8A3E-11E6BD095813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4091415A-7FFD-4B8E-8A3E-11E6BD095813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4091415A-7FFD-4B8E-8A3E-11E6BD095813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4091415A-7FFD-4B8E-8A3E-11E6BD095813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A44283-186E-46FE-B2CD-9E3EC30501D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A44283-186E-46FE-B2CD-9E3EC30501D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A44283-186E-46FE-B2CD-9E3EC30501D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A44283-186E-46FE-B2CD-9E3EC30501D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52599D43-F371-4A47-8C3C-1A61CCFA3AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52599D43-F371-4A47-8C3C-1A61CCFA3AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52599D43-F371-4A47-8C3C-1A61CCFA3AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52599D43-F371-4A47-8C3C-1A61CCFA3AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33355621-A571-45DA-871D-911014A6E222}
+	EndGlobalSection
+EndGlobal
