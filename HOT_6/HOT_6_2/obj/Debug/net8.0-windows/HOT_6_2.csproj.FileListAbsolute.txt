@@ -1,0 +1,17 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\bin\Debug\net8.0-windows\HOT_6_2.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\bin\Debug\net8.0-windows\HOT_6_2.deps.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\bin\Debug\net8.0-windows\HOT_6_2.runtimeconfig.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\bin\Debug\net8.0-windows\HOT_6_2.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\bin\Debug\net8.0-windows\HOT_6_2.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.frmNetworkScanner.resources
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.csproj.GenerateResource.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.AssemblyInfoInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.AssemblyInfo.cs
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.sourcelink.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\refint\HOT_6_2.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\HOT_6_2.genruntimeconfig.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_6\HOT_6_2\obj\Debug\net8.0-windows\ref\HOT_6_2.dll
