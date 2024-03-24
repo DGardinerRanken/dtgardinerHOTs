@@ -1,0 +1,12 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\obj\Debug\net8.0\LoanLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\obj\Debug\net8.0\LoanLibrary.AssemblyInfoInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\obj\Debug\net8.0\LoanLibrary.AssemblyInfo.cs
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\obj\Debug\net8.0\LoanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\obj\Debug\net8.0\LoanLibrary.sourcelink.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\bin\Debug\net8.0\LoanLibrary.deps.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\bin\Debug\net8.0\LoanLibrary.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\bin\Debug\net8.0\LoanLibrary.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\obj\Debug\net8.0\LoanLibrary.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\obj\Debug\net8.0\refint\LoanLibrary.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\obj\Debug\net8.0\LoanLibrary.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\HOT_07\LoanLibrary\obj\Debug\net8.0\ref\LoanLibrary.dll
